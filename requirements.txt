@@ -1,1 +1,2 @@
+protobuf
 rook>=0.1.104
